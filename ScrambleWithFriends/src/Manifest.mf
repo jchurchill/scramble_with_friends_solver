@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: SWFSolver.jar
+Main-Class: swf.solver.SWFSolver
